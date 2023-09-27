@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170316515864",
+    "project_id": "it-learning-698cd",
+    "storage_bucket": "it-learning-698cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170316515864:android:41e83793f67b34a84b516d",
+        "android_client_info": {
+          "package_name": "com.example.itlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170316515864-ghdu5bm3da15trff5m8anbf3jurm59tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5thb0-vN5hEeUOyw6QcYD_2s8IGRwQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170316515864-ghdu5bm3da15trff5m8anbf3jurm59tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
